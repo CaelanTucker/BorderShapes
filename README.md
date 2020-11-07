@@ -20,9 +20,7 @@ Custom border shapes for elements.
 
 There is more customizable element borders in theme. Check it out!
 
-# Help
-
-### How to install theme:
+# Installation
 
 **On BetterDiscord:**
 
@@ -41,14 +39,15 @@ There is more customizable element borders in theme. Check it out!
 3. Clone this repository: `cdhttps://github.com/JayWilson7/BorderShapes`.
 4. Restart Discord.
 
-### How to customize theme:
+# Customization
 
 1. Open **BorderShapes.theme.css** file in text editor.
-2. Change variables. For example: from `--borders-servers-1: 50%` (circle server icons)
-                                    to `--borders-servers-1: 0%`  (square server icons)
+2. Change variables. For example: 
+from `--borders-servers-1: 50%` (circle server icons)
+to `--borders-servers-1: 0%`  (square server icons)
 3. Save changes.
 
-### How to update theme:
+# Update
 
 1. Open themes folder.
 2. Delete old version of theme.
