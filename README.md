@@ -36,15 +36,18 @@ There is more customizable element borders in theme. Check it out!
 
 1. Open terminal or command line.
 2. Go to the Powercord themes path: `cd powercord/src/Powercord/themes`.
-3. Clone this repository: `cdhttps://github.com/JayWilson7/BorderShapes`.
+3. Clone this repository: `git clone https://github.com/JayWilson7/BorderShapes`.
 4. Restart Discord.
 
 # Customization
 
 1. Open **BorderShapes.theme.css** file in text editor.
-2. Change variables. For example: 
+2. Change variables. For example:
+
 from `--borders-servers-1: 50%` (circle server icons)
+
 to `--borders-servers-1: 0%`  (square server icons)
+
 3. Save changes.
 
 # Update
