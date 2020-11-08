@@ -978,7 +978,7 @@ button,
 /*-----{Mentions border shapes}-----*/
 /*----------------------------------*/
 
-.interactive {
+.mention {
    border-radius: var(--borders-mentions);
 }
 
