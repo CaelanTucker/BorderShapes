@@ -2,6 +2,7 @@
  * @name BorderShapes
  * @version 1.0.0
  * @author JayWilson
+ * @authorLink https://github.com/JayWilson7
  * @description Custom border shapes for elements.
  * @website https://betterdiscordlibrary.com/users/JayWilson
  * @source https://github.com/JayWilson7/BorderShapes
@@ -40,6 +41,7 @@
    --borders-status-width: 2px; /*Border width for status for avatars.*/
    --borders-status-spacing: 1px; /*Border spacing after status for avatars.*/
    --background-opacity-mobile: 0.6; /*Background opacity for "Online on Mobile" status.*/
+   --background-opacity-typing: 0.6; /*Background opacity for "Typing" indicator.*/
    --borders-sidebar-and-notices: 8px; /*Border shapes for top left sidebar corner. 25px for circle, 0px for square.*/
    --borders-cards: 4px; /*Border shapes for cards. 25px for circle, 0px for square.*/
    --borders-banners: 5px; /*Border shapes for banners. 25px for circle, 0px for square.*/
@@ -51,20 +53,21 @@
    --borders-icons-1: 5px; /*Border shapes for large icons. 25px for circle, 0px for square.*/
    --borders-icons-2: 4px; /*Border shapes for small icons. 10px for circle, 0px for square.*/
    --borders-icons-3: 5px; /*Border shapes for dot icons. 5px for circle, 0px for square.*/
-   --borders-icons-4: 4px; /*Border shapes for flag icons. 4px for circle, 0px for square.*/
+   --borders-icons-4: 4px; /*Border shapes for flag icons. 10px for circle, 0px for square.*/
    --borders-icons-5: 50%; /*Border shapes for HypeSquad icons in user settings. 50% for circle, 0% for square.*/
    --borders-labels-1: 15px; /*Border shapes for large labels. 15px for circle, 0px for square.*/
    --borders-labels-2: 10px; /*Border shapes for small labels. 10px for circle, 0px for square.*/
+   --borders-messages: 25px; /*Border shapes for hovered, selected and highlighted messages. 25px for circle, 0px for square.*/
    --borders-lines: 2px; /*Border shapes for lines when you drag categories or channels. 2px for circle, 0px for square.*/
    --borders-images-and-gifs: 5px; /*Border shapes for images and gifs previews. 25px for circle, 0px for square.*/
    --borders-videos: 5px; /*Border shapes for videos previews. 25px for circle, 0px for square.*/
    --borders-audios: 5px; /*Border shapes for audios previews. 25px for circle, 0px for square.*/
    --borders-embeds: 5px; /*Border shapes for embeds. 25px for circle, 0px for square.*/
    --borders-reactions: 4px; /*Border shapes for reactions. 10px for circle, 0px for square.*/
-   --borders-mentions: 4px; /*Border shapes for mentions. 10px for circle, 0px for square.*/
+   --borders-mentions: 3px; /*Border shapes for mentions. 10px for circle, 0px for square.*/
    --borders-roles-outline: 10px; /*Border shapes for roles outline. 10px for circle, 0px for square.*/
    --borders-roles-dot: 10px; /*Border shapes for roles dot. 10px for circle, 0px for square.*/
-   --borders-tags: 4px; /*Border shapes for tags. 10px for circle, 0px for square.*/
+   --borders-tags: 3px; /*Border shapes for tags. 10px for circle, 0px for square.*/
    --borders-format-toolbars: 4px; /*Border shapes for formatting toolbars. 10px for circle, 0px for square.*/
    --borders-codes: 4px; /*Border shapes for codes and codeblocks. 10px for circle, 0px for square.*/
    --borders-spoilers: 4px; /*Border shapes for spoilers. 10px for circle, 0px for square.*/
@@ -72,7 +75,7 @@
    --borders-toasts: 5px; /*Border shapes for toasts. 25px for circle, 0px for square.*/
    --borders-tooltips: 5px; /*Border shapes for tooltips. 25px for circle, 0px for square.*/
    --borders-scrollbars: 10px; /*Border shapes for scrollbars. 10px for circle, 0px for square.*/
-   --borders-editors: 0px; /*Border shapes for editors workspace. 25px for circle, 0px for square.*/
+   --borders-editors: 0px; /*Border shapes for editors workspace. 20px for circle, 0px for square.*/
    --borders-color-server-badges: var(--background-tertiary); /*Borders color for server badges.*/
    --borders-color-user-call-badges: var(--background-floating); /*Borders color for user "Mute" and "Deafen" badges in calls.*/
    --borders-color-friends-activity-voice-badge: var(--background-secondary); /*Borders color for voice badge in friends activity.*/
