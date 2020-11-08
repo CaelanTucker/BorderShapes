@@ -45,6 +45,7 @@ button,
 .button-3HqqDX,
 .button-Jt-tIg,
 .attachPopoutRow-3iqqu1,
+.tierMarkerLabelText-F_zS1F,
 .stickerCategory-3Yz7vN,
 .regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3,
 .bd-button,
@@ -63,13 +64,13 @@ button,
 .listRow-hutiT_ {
    border-radius: var(--borders-buttons-1) !important;
 }
-.bd-addon-button {
+.bd-footer .bd-addon-button {
    border-radius: 0px !important
 }
-.bd-addon-button:first-child {
+.bd-footer .bd-addon-button:first-child {
    border-radius: var(--borders-buttons-1) 0 0 var(--borders-buttons-1) !important;
 }
-.bd-addon-button:last-child {
+.bd-footer .bd-addon-button:last-child {
    border-radius: 0 var(--borders-buttons-1) var(--borders-buttons-1) 0 !important;
 }
 .newMessagesBar-265mhP,
