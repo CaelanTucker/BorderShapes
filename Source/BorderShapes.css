@@ -98,6 +98,7 @@ button,
 }
 .layout-2DM8Md,
 .content-3at_AU,
+.content-1x5b-n,
 .reactionDefault-GBA58K,
 .reactionSelected-1pqISm,
 #pubslayer .ui-tab-bar-item {
@@ -404,6 +405,7 @@ button,
    border-radius: 0 var(--borders-server-pill) var(--borders-server-pill) 0 !important;
 }
 .unread-3zKkbm,
+.unread-2lAfLh,
 .unreadPill-2HyYtt {
    border-radius: 0 var(--borders-unreads) var(--borders-unreads) 0;
 }
