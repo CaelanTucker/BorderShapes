@@ -427,10 +427,7 @@ button,
    border-radius: var(--borders-avatars-1) !important;
 }
 .wrapper-3t9DeA,
-.avatar-1BDn8e,
-.appAvatar-3bgkQ9,
-.avatar-3elDyV,
-.avatar-2daVqv {
+.avatar-1BDn8e {
    border-radius: var(--borders-avatars-2);
 }
 .option-96V44q.user-O3Czj0 .displayAvatar-1wWlVM,
@@ -438,6 +435,8 @@ button,
 .embedAuthorIcon--1zR3L,
 .embedFooterIcon-239O1f,
 .iconWrapper-1GmWXs,
+.avatar-3tNQiO,
+.appAvatar-3bgkQ9,
 .toast .toast-avatar {
    border-radius: var(--borders-avatars-3);
 }
